@@ -1,0 +1,13 @@
+C:\Users\TOSHIBA\source\repos\Controle2\Controle2\bin\Debug\Controle2.exe.config
+C:\Users\TOSHIBA\source\repos\Controle2\Controle2\bin\Debug\Controle2.exe
+C:\Users\TOSHIBA\source\repos\Controle2\Controle2\bin\Debug\Controle2.pdb
+C:\Users\TOSHIBA\source\repos\Controle2\Controle2\obj\Debug\Controle2.csprojAssemblyReference.cache
+C:\Users\TOSHIBA\source\repos\Controle2\Controle2\obj\Debug\Controle2.Form1.resources
+C:\Users\TOSHIBA\source\repos\Controle2\Controle2\obj\Debug\Controle2.Properties.Resources.resources
+C:\Users\TOSHIBA\source\repos\Controle2\Controle2\obj\Debug\Controle2.csproj.GenerateResource.cache
+C:\Users\TOSHIBA\source\repos\Controle2\Controle2\obj\Debug\Controle2.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\source\repos\Controle2\Controle2\obj\Debug\Controle2.exe
+C:\Users\TOSHIBA\source\repos\Controle2\Controle2\obj\Debug\Controle2.pdb
+C:\Users\TOSHIBA\source\repos\Controle2\Controle2\obj\Debug\Controle2.Autocars.resources
+C:\Users\TOSHIBA\source\repos\Controle2\Controle2\obj\Debug\Controle2.Lignes.resources
+C:\Users\TOSHIBA\source\repos\Controle2\Controle2\obj\Debug\Controle2.Voyages.resources
